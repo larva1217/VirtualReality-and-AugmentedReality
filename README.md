@@ -21,7 +21,7 @@ AR 콘텐츠는 Unity에서 개발한 애플리케이션을 **Android 스마트�
 - XR Plugin Management
 - Meta Quest 2
 - Android
-- Vuforia (AR)
+
 
 ## 📌 참고
 
