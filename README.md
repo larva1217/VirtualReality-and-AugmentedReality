@@ -30,6 +30,5 @@ AR 콘텐츠는 Unity에서 개발한 애플리케이션을 **Android 스마트�
 - **VRProject**: VR 중간 프로젝트 (Meta Quest 2 기반 VR 액션 게임)
 - **PetWorld**: AR 기말 프로젝트 (마커 인식 기반 3D 오브젝트 출력 및 모바일 AR 콘텐츠 구현, 동물 키우기 게임)
 
-## 🔥 GitHub Repository
 
-본 저장소는 수업 실습 및 기말 프로젝트를 정리한 공간입니다.
+
